@@ -6,7 +6,6 @@ This project is a simple responsive webpage developed using only HTML, CSS, and 
 ## Privacy and Security
 
 This project is intended for private use and will be made private soon. 
-url: https://mosai-k.github.io/development-projects/quiz.html
 
 ## Published Page
 
