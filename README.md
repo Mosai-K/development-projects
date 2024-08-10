@@ -6,3 +6,8 @@ This project is a fully responsive web application developed using only HTML, CS
 ## Privacy and Security
 
 This project is intended for private use and will be made private soon. 
+url: https://mosai-k.github.io/development-projects/quiz.html
+
+## Published Page
+
+You can view the live version of the project here: [[Published Page URL](https://mosai-k.github.io/development-projects/quiz.html)](#)
